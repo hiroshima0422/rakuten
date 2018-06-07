@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuctionGenreIdSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563656535756" remote="131728566600000000" Dst="0" />
+<file name="AuctionGenreKeywordSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563656625816" remote="131728566600000000" Dst="0" />
+<file name="AuctionItemCodeSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563656725881" remote="131728566600000000" Dst="0" />
+<file name="AuctionItemSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563656986072" remote="131728566600000000" Dst="0" />
+<file name="BooksBookSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563657076139" remote="131728566600000000" Dst="0" />
+<file name="BooksCDSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563657176210" remote="131728566600000000" Dst="0" />
+<file name="BooksDVDSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563657266282" remote="131728566600000000" Dst="0" />
+<file name="BooksForeignBookSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563657416386" remote="131728566600000000" Dst="0" />
+<file name="BooksGameSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563657576493" remote="131728566600000000" Dst="0" />
+<file name="BooksGenreSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563658427117" remote="131728566600000000" Dst="0" />
+<file name="BooksMagazineSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563658527170" remote="131728566600000000" Dst="0" />
+<file name="BooksSoftwareSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563658617237" remote="131728566600000000" Dst="0" />
+<file name="BooksTotalSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563658717314" remote="131728566600000000" Dst="0" />
+<file name="FavoriteBookmarkAdd.php" server="ftp.hiroshima.whitesnow.jp" local="131728563658827371" remote="131728566600000000" Dst="0" />
+<file name="FavoriteBookmarkDelete.php" server="ftp.hiroshima.whitesnow.jp" local="131728563658927448" remote="131728566600000000" Dst="0" />
+<file name="FavoriteBookmarkList.php" server="ftp.hiroshima.whitesnow.jp" local="131728563659107594" remote="131728566600000000" Dst="0" />
+<file name="GoraGoraGolfCourseDetail.php" server="ftp.hiroshima.whitesnow.jp" local="131728563659247711" remote="131728566600000000" Dst="0" />
+<file name="GoraGoraGolfCourseSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563659347758" remote="131728566600000000" Dst="0" />
+<file name="GoraGoraPlanSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563659427803" remote="131728566600000000" Dst="0" />
+<file name="HighCommissionShopList.php" server="ftp.hiroshima.whitesnow.jp" local="131728563659667967" remote="131728566600000000" Dst="0" />
+<file name="IchibaGenreSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563660528577" remote="131728566600000000" Dst="0" />
+<file name="IchibaItemRanking.php" server="ftp.hiroshima.whitesnow.jp" local="131728563660638670" remote="131728566600000000" Dst="0" />
+<file name="IchibaItemSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563660828802" remote="131728566600000000" Dst="0" />
+<file name="IchibaTagSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563660908853" remote="131728566600000000" Dst="0" />
+<file name="KoboEbookSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563661008930" remote="131728566600000000" Dst="0" />
+<file name="KoboGenreSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563661119005" remote="131728566600000000" Dst="0" />
+<file name="ProductSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563661249094" remote="131728566600000000" Dst="0" />
+<file name="RecipeCategoryList.php" server="ftp.hiroshima.whitesnow.jp" local="131728563661339167" remote="131728566600000000" Dst="0" />
+<file name="RecipeCategoryRanking.php" server="ftp.hiroshima.whitesnow.jp" local="131728563661429234" remote="131728566600000000" Dst="0" />
+<file name="TravelGetAreaClass.php" server="ftp.hiroshima.whitesnow.jp" local="131728563661519288" remote="131728566600000000" Dst="0" />
+<file name="TravelGetHotelChainList.php" server="ftp.hiroshima.whitesnow.jp" local="131728563661619359" remote="131728566600000000" Dst="0" />
+<file name="TravelHotelDetailSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563661719430" remote="131728566600000000" Dst="0" />
+<file name="TravelHotelRanking.php" server="ftp.hiroshima.whitesnow.jp" local="131728563662590044" remote="131728566600000000" Dst="0" />
+<file name="TravelKeywordHotelSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563662690127" remote="131728566600000000" Dst="0" />
+<file name="TravelSimpleHotelSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563662790192" remote="131728566600000000" Dst="0" />
+<file name="TravelVacantHotelSearch.php" server="ftp.hiroshima.whitesnow.jp" local="131728563662940296" remote="131728566600000000" Dst="0" />
+</dwsync>
